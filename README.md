@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perf-git&label=Profile%20views&color=0e75b6&style=flat" alt="perf-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perf-git" alt="perf-git" /></a> </p>
-
 - 🔭 I’m currently working on [Staging CRM](https://github.com/CareasaNew/Staging_CRM.git)
 
 - 🌱 I’m currently learning **Spring Boot, Kubernetes, Jenkins, CI/CD Pipelines**
