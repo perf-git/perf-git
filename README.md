@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth Hiwanj</h1>
 <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Generative AI | LLMs | RAG | LangChain | TensorFlow | MERN Stack | Spring Boot | Docker | Cloud Computing | Aspiring DevOps Engineer</h3>
 
-<p align="left"> <img src="https://img.icons8.com/color/96/developer.png" alt="perf-git" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=perf-git&label=Profile%20views&color=0e75b6&style=flat" alt="perf-git" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perf-git" alt="perf-git" /></a> </p>
 
